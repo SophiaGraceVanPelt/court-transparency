@@ -1,0 +1,6 @@
+MY TO-DO LIST
+
+1. Get code from yesterday
+2. Fix df_list issue
+3. Work on other 3 years
+4. Compile all 4 years
