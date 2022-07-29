@@ -2,7 +2,9 @@ library(tidyverse)
 library(readxl)
 library(dplyr)
 
-wa_2017_s13 <- read_excel("/Users/svanpelt/Documents/projects/court_transparency/unprocessed_data/JLARC Public Records Full Dataset.xlsx", sheet = "13. Estimated Costs Responding", range = "A2:F184")
+#wa_2017_s13 <- read_excel("/Users/svanpelt/Documents/projects/court_transparency/unprocessed_data/JLARC Public Records Full Dataset.xlsx", sheet = "13. Estimated Costs Responding", range = "A2:F184")
+wa_2017_s13 <- read_excel("/home/sophie/Documents/projects/judicial_foia/02-data/unprocessed/washington/JLARC Public Records Full Dataset.xlsx", sheet = "13. Estimated Costs Responding", range = "A2:F184")
+
 
 # wa_2017_agency <- wa_2017_s13 %>%
 #  filter(`Agency Category` == "State agency, commission, or board")
