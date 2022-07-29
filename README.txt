@@ -3,7 +3,9 @@ MY TO-DO LIST
 1. I at least want the variable "Total Requests" for all 4 years
     a. This variable is not in the 2017 report, but can be constructed by adding "Total Open Requests" and "Total Requests Received" in the Baseline sheet
     b. The "Total Requests" variable is in the sheet 10. Staff Time Spent for the other years, but can also be constructed in the same way as written above
-2. Compile all 4 years
+2. There is still some more cleanup left to do, but most of it is done - just finish up (duplicate rows, etc)
+3. Get data like population, budget size, etc
+4. Make a whole report to give to Bryan
 
 List of variables I want:
 Agency Name
